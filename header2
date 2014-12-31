@@ -1,0 +1,17 @@
+		<link rel="stylesheet" type="text/css" href="css/web.css">
+	</head>
+
+	<body>
+		<div id="base">
+			<div id="header">
+				<div id="logo1">	
+					<img style="width: 50px; height: 50px;" alt="" src="images/foo.png">
+				</div>
+				<div id="logo2">	
+					<img style="width: 85px; height: 55px;" alt="" src="images/bar.png">
+				</div>
+				<div id="title">
+					TITLE
+				</div>
+				<div id="overmenu">
+					<div id="overmenu_left">

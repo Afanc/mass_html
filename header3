@@ -1,0 +1,25 @@
+					<div id="overmenu_right">
+						<a class="overmenu_links_right" href="Pictures.html">Pictures</a>
+					</div>
+				</div>
+				<div id="menu">
+					<ul>
+						<li>
+							<a href="Menu-mainmenu.html">Menu1</a>
+							<ul>
+								<li>
+									<a href="Informations-main.html">Informations</a><br>
+								</li>
+							</ul>
+						</li>
+						<li>	
+							<a href="Calendar.html">Calendar</a>
+							<ul>
+								<li>
+									<a href="Calendar-News.html">News</a>
+								</li>
+							</ul>
+						</li>
+					</ul>
+				</div>
+			</div>

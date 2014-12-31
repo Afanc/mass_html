@@ -1,0 +1,8 @@
+perl script that writes in html files
+it uses the names of the files to position them in the website, i.e main-sub.html will be a submenu of the 'main' node/main-sub-foo-bar.html is the 'bar' sub of 'foo' of 'sub' of 'main'
+possibility of having a breadcrumb
+
+1. set header1, 2 and 3 with different static lines (those lines will be exactly the same in each file)
+2. edit edit.pl to fit you use (what will be different, specific cases, etc)
+
+not really usable but might give you some ideas
